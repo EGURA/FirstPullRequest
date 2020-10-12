@@ -47,7 +47,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Guillen, Geo
 
-- [X] Guraieb, Eduardo 🚀 🌔
+- [X] Guraieb, Eduardo 🚀 🌔 Username: @EGURA
 
 - [ ] Hall, Caitrin
 
